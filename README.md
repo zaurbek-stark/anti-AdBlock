@@ -3,7 +3,7 @@
 This is the codebase for the Anti-Adblocker that in this video. This Chrome extension blurs everything on the page that isn't an ad.
 <div>
 <a href="https://youtu.be/vImBx5kJt9c">
-
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/121587026/210021332-e33d03b9-504b-45dd-92ea-9f29a900ab98.png">
 </a>
 </div>
 
