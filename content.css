@@ -1,0 +1,26 @@
+body h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+img,
+video,
+table,
+svg,
+code {
+  filter: blur(20px);
+}
+
+ytd-display-ad-renderer *,
+ytd-action-companion-ad-renderer *,
+ytd-promoted-sparkles-web-renderer *,
+video-ads ytp-ad-module *,
+ytp-ad-persistent-progress-bar-container *,
+yt-formatted-string *,
+.ad-showing * {
+  filter: blur(0px);
+}

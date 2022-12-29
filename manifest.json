@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Anti-AdBlock",
+    "description": "Blurs everything but ads",
+    "version": "1",
+    "author": "Zaurbek Stark",
+    "content_scripts": [{
+      "matches": ["<all_urls>"],
+      "js": ["content-script.js"],
+      "css": ["content.css"]
+    }]
+}
